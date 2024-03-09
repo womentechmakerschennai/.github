@@ -1,5 +1,8 @@
 ## Women Techmakers Chennai 👋
 
+Google's global program provides visibility, community, & resources for women in technology.
+
+
 <!--
 
 **Here are some ideas to get you started:**
